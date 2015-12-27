@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[reoh'Log]]></title>
+  <link href="http://reoh.github.io/atom.xml" rel="self"/>
+  <link href="http://reoh.github.io/"/>
+  <updated>2015-12-27T22:52:25+09:00</updated>
+  <id>http://reoh.github.io/</id>
+  <author>
+    <name><![CDATA[Reoh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ポートフォリオサイト作りました]]></title>
+    <link href="http://reoh.github.io/blog/2015/12/19/start/"/>
+    <updated>2015-12-19T18:30:58+09:00</updated>
+    <id>http://reoh.github.io/blog/2015/12/19/start</id>
+    <content type="html"><![CDATA[<h2>自分のwebページ作った</h2>
+
+<p>今更ですが自分のポートフォリオ的なサイトを今まで作ってなかったので作りました.<br/>
+ProjectsページとGitHubに授業課題で製作したプログラムとかあげていきたいと思います.<br/>
+同時にblogとして適当に備忘録をゆる〜く書いていきます(プログラミングのこととか,趣味のこととか).<br/>
+更新頻度は少なめです.</p>
+]]></content>
+  </entry>
+  
+</feed>

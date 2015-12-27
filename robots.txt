@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://reoh.github.io/sitemap.xml 
